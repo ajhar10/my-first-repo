@@ -1,0 +1,50 @@
+        h1{
+            color: darkmagenta;
+            font-weight: 700;
+        }
+        
+        #ajhar{
+            background-color: aqua;
+            color: rgb(8, 8, 8);
+            font-family: 'Courier New', Courier, monospace;
+            border: 5px solid yellow;
+            border-radius: 15px;
+            padding: 20px 5px 10px 20px;
+            width: 50%;
+            margin: 10px auto;
+            text-align: justify;
+        }
+        #ajhar p{
+            display: inline;
+        }
+         h3{
+            text-align: center;
+        }
+        #shahin{
+            background-color: cadetblue;
+            font-family: sans-serif;
+            border: 5px solid rgb(14, 192, 133);
+            border-radius: 15px;
+            padding: 20px 5px 10px 20px;
+            width: 50%;
+            margin: 10px auto;
+
+        }
+        #borhan{
+            background-color: cornflowerblue;
+            font-size: 14px;
+            border: 5px solid rgb(6, 92, 143);
+            border-radius: 15px;
+            padding: 20px 5px 10px 20px;
+            width: 50%;
+            margin: 0 auto;
+        }
+        .place{
+            color: crimson;
+            font-weight: bold;
+
+        }
+        .name{
+            color: darkblue;
+        }
+    
